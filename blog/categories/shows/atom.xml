@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Shows | MidSouth Angora]]></title>
+  <link href="http://midsouthangora.github.io/blog/categories/shows/atom.xml" rel="self"/>
+  <link href="http://midsouthangora.github.io/"/>
+  <updated>2014-04-13T20:52:24-05:00</updated>
+  <id>http://midsouthangora.github.io/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Dalton, Ga. 2012 Show]]></title>
+    <link href="http://midsouthangora.github.io/blog/2012/03/11/dalton-ga-2012-show/"/>
+    <updated>2012-03-11T19:38:52-05:00</updated>
+    <id>http://midsouthangora.github.io/blog/2012/03/11/dalton-ga-2012-show</id>
+    <content type="html"><![CDATA[<p>No Content Found</p>
+]]></content>
+  </entry>
+  
+</feed>
